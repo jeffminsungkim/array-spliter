@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/license/jeffminsungkim/hologo.svg" alt="License"></a>
 </p>
 
-> Easy to get an array of strings split at each point where the separator occurs in the given string.
+> Easy to get an array of strings [split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) at each point where the separator occurs in the given string
 
 ## Install
 

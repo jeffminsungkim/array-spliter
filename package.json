@@ -1,0 +1,43 @@
+{
+  "name": "array-spliter",
+  "version": "1.0.0",
+  "description": "Easy to splits a String object into array of strings by separating the string into substrings, using multiple operator strings",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest",
+    "watchtest": "jest --watch"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "jest-extended",
+    "testRegex": "(/__tests__/|(\\.|/)(test|spec))\\.(jsx?|tsx?)$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffminsungkim/array-spliter.git"
+  },
+  "keywords": [
+    "array-spliter",
+    "array",
+    "multiple",
+    "string operators",
+    "split",
+    "chunks",
+    "substring"
+  ],
+  "author": "JeffMinsungKim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffminsungkim/array-spliter/issues"
+  },
+  "homepage": "https://github.com/jeffminsungkim/array-spliter#readme",
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "jest-extended": "^0.7.1"
+  }
+}
